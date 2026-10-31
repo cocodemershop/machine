@@ -1,0 +1,39 @@
+GIPSY FORTUNE ALS iPHONE-APP
+============================
+
+In diesem Ordner steckt die fertige App:
+  index.html            der Automat (Deutsch, English, Español)
+  manifest.webmanifest  App-Name, Farben, Icon
+  sw.js                 hält die App auf dem Handy: startet sofort und läuft auch ohne Internet
+  icon-180/192/512.png  App-Icon mit Pablo
+
+SCHNELL TESTEN (am Computer)
+  index.html doppelklicken. Läuft sofort im Browser.
+
+AUFS iPHONE ALS APP (ca. 3 Minuten, kostenlos)
+  Eine App vom Home-Bildschirm braucht eine eigene https-Adresse.
+  1. Am Computer https://app.netlify.com/drop öffnen.
+  2. Diesen ganzen Ordner "app" in das Feld ziehen.
+     Netlify zeigt dir danach eine Adresse wie https://gipsy-xyz.netlify.app
+     (kostenloses Konto anlegen, damit die Seite dauerhaft bleibt).
+  3. Die Adresse auf dem iPhone in Safari öffnen.
+  4. Teilen-Knopf (Quadrat mit Pfeil) > "Zum Home-Bildschirm" > Hinzufügen.
+  Fertig: Pablo liegt als App mit eigenem Icon auf dem iPhone, öffnet sich im Vollbild
+  ohne Safari-Leiste und funktioniert danach auch im Flugmodus.
+
+  Andere Anbieter gehen genauso (GitHub Pages, Cloudflare Pages, eigener Webspace mit https).
+
+VOR DEM ÖFFENTLICHEN START
+  In index.html ganz oben im Script ausfüllen:
+    PAYPAL_EMAIL = PayPal-Konto für Spenden (eingetragen: eurodeko@web.de)
+    LETTER_URL = PayPal-Link für den 9-Euro-Brief
+    IMPRESSUM  = Name, Straße, Ort, E-Mail, Telefon
+  Nach jeder Änderung an index.html in sw.js die Zeile VERSION hochzählen
+  (z. B. "gipsy-v18"), damit die iPhones die neue Fassung laden.
+
+STIMME AUF DEM iPHONE
+  Pablo spricht mit der iPhone-Stimme. Schöner klingt es mit einer besseren Stimme:
+  Einstellungen > Bedienungshilfen > Gesprochene Inhalte > Stimmen > Deutsch
+  > eine männliche Stimme in "Erweiterte Qualität" laden.
+  Den Lautlos-Schalter am iPhone ausschalten, sonst bleibt Pablo stumm.
+

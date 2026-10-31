@@ -1,0 +1,412 @@
+﻿PABLO - STIMME FÜR ELEVENLABS (DEUTSCH · ENGLISH · ESPAÑOL)
+============================================================
+
+1) STIMME ANLEGEN (ElevenLabs > Voices > Voice Design)
+
+Es reicht EINE Stimme für alle drei Sprachen. Das Modell "Eleven Multilingual v2"
+spricht mit derselben Stimme Deutsch, Englisch und Spanisch.
+
+Beschreibung (auf Englisch eingeben, das versteht Voice Design am besten):
+A deep, gravelly, low-pitched male voice, around 60 years old. Calm, cool and laid-back like a weary action-movie hero, with a slight rasp and a dry, knowing half-smile in the delivery. Speaks slowly with long dramatic pauses, warm chest resonance, a little smoky. Mysterious fortune teller at a midnight fair. Speaks German with a very light American accent.
+
+Probetext für die Vorschau:
+Hmm ... die Nebel lichten sich. Ich sehe etwas. Und glaub mir, Freund ... es wird ein guter Tag.
+
+Einstellungen zum Sprechen:
+- Modell: Eleven Multilingual v2 (für alle drei Sprachen)
+- Stability: ca. 40 %   (etwas Lebendigkeit)
+- Similarity: ca. 80 %
+- Style: ca. 30 %       (mehr Ausdruck)
+- Speed: 0.85 bis 0.9   (ruhig und langsam)
+
+Klingt die Stimme auf Englisch oder Spanisch nicht gut, lege eine zweite bzw. dritte
+Stimme mit derselben Beschreibung an und ersetze nur den letzten Satz:
+- Englisch:  Speaks American English.
+- Spanisch:  Speaks Spanish with a very light American accent.
+
+WICHTIG: Kein Stimmen-Klon einer echten Person. Für den öffentlichen Einsatz ein bezahltes Abo mit kommerzieller Lizenz nutzen.
+
+2) SÄTZE SPRECHEN LASSEN
+Jeden Satz einzeln erzeugen und als MP3 mit genau dem Dateinamen davor speichern.
+Die Dateien kommen in drei Ordner: de, en, es. Die Dateinamen sind in allen drei Ordnern gleich.
+Tipp: Drei Punkte ... erzeugen eine dramatische Pause.
+
+
+############################################################
+ORDNER de  (DEUTSCH)
+############################################################
+
+--- Begrüßung und Übergänge ---
+start.mp3      Tritt näher, Fremder. Stell deine Frage und wirf eine Münze ein. Pablo wartet schon.
+frage.mp3      ... eine mutige Frage.
+intro.mp3      Hör gut zu. Die Kugel lügt nie.
+ende.mp3       Nimm deine Karte. Pablo the Gipsy hat gesprochen.
+
+--- Murmeln beim Blick in die Kugel ---
+murmel-01.mp3  Schhh … die Kugel erwacht …
+murmel-02.mp3  Ich sehe Schatten … und dahinter Licht …
+murmel-03.mp3  Da! Jetzt sehe ich es ganz klar!
+murmel-04.mp3  Die Geister der Nacht flüstern … ich höre sie …
+murmel-05.mp3  Ein Name … ein Ort … eine Zeit …
+murmel-06.mp3  Ja. Es steht in den Sternen geschrieben.
+murmel-07.mp3  Gib mir deine Gedanken … ganz ruhig …
+murmel-08.mp3  Der Nebel dreht sich … er zeigt mir deinen Weg …
+murmel-09.mp3  Pablo hat es gesehen!
+
+--- Weissagungen ---
+weissagung-01.mp3  Ich sehe eine Tür, die du für eine Wand gehalten hast. Klopf dreimal. Beim dritten Mal öffnet sie sich.
+weissagung-02.mp3  Jemand trägt deinen Namen bei sich wie einen Glücksstein in der Tasche. Bald erfährst du, wer.
+weissagung-03.mp3  Der Nebel zeigt mir einen Weg, den du schon einmal gegangen bist. Diesmal kennst du die Abkürzung.
+weissagung-04.mp3  Dein Herz kennt die Antwort längst. Es wartet nur darauf, dass dein Kopf endlich still wird.
+weissagung-05.mp3  Ein Brief ohne Absender wird dich zum Lächeln bringen. Bewahre ihn gut auf. Er ist ein Schlüssel.
+weissagung-06.mp3  Die Kugel zeigt mir ein Fenster in der Nacht und ein Licht darin, das nur für dich brennt.
+weissagung-07.mp3  Was du verloren glaubst, ist nur verlegt. Such dort, wo du zuletzt laut gelacht hast.
+weissagung-08.mp3  Ein Fremder wird dir eine Frage stellen, die dein Leben leichter macht. Antworte ihm ehrlich.
+weissagung-09.mp3  Drei Nächte noch, dann dreht sich der Wind. Und der Wind, mein Freund, dreht sich zu dir.
+weissagung-10.mp3  Du hast mehr Mut, als dein Spiegel dir verrät. Bald wirst du ihn brauchen. Und er wird da sein.
+weissagung-11.mp3  Ich sehe Musik, Kerzenlicht und einen Tanz, den du nicht geplant hast. Sag einfach Ja.
+weissagung-12.mp3  Ein altes Versprechen klopft an deine Tür. Diesmal wird es gehalten.
+weissagung-13.mp3  Die Sterne flüstern einen Namen. Ich darf ihn nicht verraten. Aber du erkennst ihn, sobald du ihn hörst.
+weissagung-14.mp3  Hinter der nächsten Enttäuschung wartet eine Überraschung, die viel größer ist. Geh weiter.
+weissagung-15.mp3  Was du heute mit deinen Händen beginnst, wird länger leben als ein ganzer Sommer.
+weissagung-16.mp3  Ein Streit endet, wenn du als Erstes die Hand reichst. Es kostet weniger, als du fürchtest, und bringt mehr, als du hoffst.
+weissagung-17.mp3  Die Kugel färbt sich golden. Das heißt: Geld, das zu dir kommt und nicht von dir geht. Halte die Augen offen.
+weissagung-18.mp3  Du suchst ein Zeichen? Hier ist es. Du hältst es gerade in der Hand.
+weissagung-19.mp3  Eine Reise beginnt bald. Vielleicht nur bis zur nächsten Straßenecke. Doch dort wartet etwas Neues.
+weissagung-20.mp3  Jemand denkt in genau diesem Augenblick an dich. Und lächelt dabei.
+weissagung-21.mp3  Der Mond hat gesehen, wie du die Hoffnung fast aufgegeben hast. Er lässt dir ausrichten: noch nicht.
+weissagung-22.mp3  Dein größter Wunsch ist kleiner, als du glaubst. Und darum viel näher.
+weissagung-23.mp3  Ich sehe einen roten Faden durch dein Jahr. Folge ihm, auch wenn er Umwege macht.
+weissagung-24.mp3  In dir schläft ein vergessenes Talent. Weck es sanft. Es hat lange genug gewartet.
+weissagung-25.mp3  Die Antwort auf deine Frage lautet: noch nicht. Aber das Noch wird jeden Tag kürzer.
+weissagung-26.mp3  Die Karten sind gemischt, das Spiel ist offen, und du hältst den Trumpf. Spiel ihn nicht zu früh.
+weissagung-27.mp3  Was dich heute ärgert, erzählst du in einem Jahr als deine beste Geschichte.
+weissagung-28.mp3  Ein Tier wird dir den Weg zeigen. Folge ihm. Aber nicht bis in den Wald.
+weissagung-29.mp3  Schreib heute Nacht einen Wunsch auf und leg ihn unter dein Kissen. Lies ihn erst im Frühling wieder.
+weissagung-30.mp3  Die Kugel zeigt zwei Wege. Beide sind gut. Nimm den, auf dem mehr Musik spielt.
+weissagung-31.mp3  Ein Geheimnis, das du hütest, wird zum Schatz, sobald du es mit dem richtigen Menschen teilst.
+weissagung-32.mp3  Das Glück ist ein scheuer Vogel. Es setzt sich nur auf offene Hände. Öffne deine.
+weissagung-33.mp3  Ich sehe ein Fest, viele Lichter und dich mittendrin. Du lachst. Laut und von Herzen.
+weissagung-34.mp3  Wer dich heute nach dem Weg fragt, bringt dir morgen Glück. Zeig ihm den schönsten.
+weissagung-35.mp3  Die Sterne lachen über deine Sorgen. Nicht aus Spott. Sie wissen nur schon, wie deine Geschichte ausgeht.
+weissagung-36.mp3  Pablo hat schon viele Hände gesehen. Deine sind gemacht, um etwas Großes festzuhalten.
+
+
+############################################################
+ORDNER en  (ENGLISH)
+############################################################
+
+Probetext für die Vorschau:
+Hmm ... the mist is clearing. I see something. And trust me, friend ... it's going to be a good day.
+
+--- Greeting and transitions ---
+start.mp3      Step closer, stranger. Ask your question and drop in a coin. Pablo is waiting.
+frage.mp3      ... a bold question.
+intro.mp3      Listen closely. The crystal never lies.
+ende.mp3       Take your card. Pablo the Gipsy has spoken.
+
+--- Murmuring into the crystal ---
+murmel-01.mp3  Shhh … the crystal awakens …
+murmel-02.mp3  I see shadows … and light behind them …
+murmel-03.mp3  There! Now I see it clearly!
+murmel-04.mp3  The spirits of the night are whispering … I hear them …
+murmel-05.mp3  A name … a place … a time …
+murmel-06.mp3  Yes. It is written in the stars.
+murmel-07.mp3  Give me your thoughts … slowly, calmly …
+murmel-08.mp3  The mist is turning … it shows me your path …
+murmel-09.mp3  Pablo has seen it!
+
+--- Fortunes ---
+weissagung-01.mp3  I see a door you mistook for a wall. Knock three times. On the third knock, it opens.
+weissagung-02.mp3  Someone carries your name like a lucky stone in their pocket. Soon you will find out who.
+weissagung-03.mp3  The mist shows me a road you have walked before. This time you know the shortcut.
+weissagung-04.mp3  Your heart has known the answer for a long time. It is only waiting for your head to fall quiet.
+weissagung-05.mp3  A letter with no sender will make you smile. Keep it safe. It is a key.
+weissagung-06.mp3  The crystal shows me a window in the night, and a light inside that burns only for you.
+weissagung-07.mp3  What you think is lost is only misplaced. Look where you last laughed out loud.
+weissagung-08.mp3  A stranger will ask you a question that makes your life lighter. Answer honestly.
+weissagung-09.mp3  Three more nights, then the wind turns. And the wind, my friend, turns towards you.
+weissagung-10.mp3  You have more courage than your mirror lets on. Soon you will need it. And it will be there.
+weissagung-11.mp3  I see music, candlelight and a dance you never planned. Just say yes.
+weissagung-12.mp3  An old promise is knocking at your door. This time it will be kept.
+weissagung-13.mp3  The stars are whispering a name. I may not reveal it. But you will know it the moment you hear it.
+weissagung-14.mp3  Behind the next disappointment waits a surprise far greater. Keep walking.
+weissagung-15.mp3  What you begin today with your own hands will outlive a whole summer.
+weissagung-16.mp3  A quarrel ends when you are the first to offer your hand. It costs less than you fear and brings more than you hope.
+weissagung-17.mp3  The crystal turns to gold. That means money coming to you, not leaving you. Keep your eyes open.
+weissagung-18.mp3  Looking for a sign? Here it is. You are holding it right now.
+weissagung-19.mp3  A journey begins soon. Perhaps only to the next street corner. But something new is waiting there.
+weissagung-20.mp3  Someone is thinking of you at this very moment. And smiling.
+weissagung-21.mp3  The moon saw you almost give up hope. It asks me to tell you: not yet.
+weissagung-22.mp3  Your greatest wish is smaller than you think. And that is why it is so much closer.
+weissagung-23.mp3  I see a red thread running through your year. Follow it, even when it takes the long way round.
+weissagung-24.mp3  A forgotten talent sleeps inside you. Wake it gently. It has waited long enough.
+weissagung-25.mp3  The answer to your question is: not yet. But the "yet" grows shorter every day.
+weissagung-26.mp3  The cards are shuffled, the game is open, and you hold the trump card. Do not play it too soon.
+weissagung-27.mp3  What annoys you today will be your best story a year from now.
+weissagung-28.mp3  An animal will show you the way. Follow it. But not into the forest.
+weissagung-29.mp3  Tonight, write a wish on a slip of paper and put it under your pillow. Do not read it again until spring.
+weissagung-30.mp3  The crystal shows two roads. Both are good. Take the one with more music.
+weissagung-31.mp3  A secret you keep becomes a treasure the moment you share it with the right person.
+weissagung-32.mp3  Luck is a shy bird. It only lands on open hands. Open yours.
+weissagung-33.mp3  I see a celebration, many lights, and you right in the middle. You are laughing. Loudly, from the heart.
+weissagung-34.mp3  Whoever asks you the way today will bring you luck tomorrow. Show them the most beautiful one.
+weissagung-35.mp3  The stars laugh at your worries. Not to mock you. They simply already know how your story ends.
+weissagung-36.mp3  Pablo has seen many hands. Yours were made to hold on to something great.
+
+
+############################################################
+ORDNER es  (ESPAÑOL)
+############################################################
+
+Probetext für die Vorschau:
+Mmm ... la niebla se aclara. Veo algo. Y créeme, amigo ... va a ser un buen día.
+
+--- Saludo y transiciones ---
+start.mp3      Acércate, forastero. Haz tu pregunta y echa una moneda. Pablo te espera.
+frage.mp3      ... una pregunta valiente.
+intro.mp3      Escucha bien. La bola nunca miente.
+ende.mp3       Toma tu carta. Pablo the Gipsy ha hablado.
+
+--- Murmullos ante la bola ---
+murmel-01.mp3  Shhh … la bola despierta …
+murmel-02.mp3  Veo sombras … y detrás, luz …
+murmel-03.mp3  ¡Ahí! ¡Ahora lo veo con claridad!
+murmel-04.mp3  Los espíritus de la noche susurran … los oigo …
+murmel-05.mp3  Un nombre … un lugar … un momento …
+murmel-06.mp3  Sí. Está escrito en las estrellas.
+murmel-07.mp3  Dame tus pensamientos … con calma …
+murmel-08.mp3  La niebla gira … me muestra tu camino …
+murmel-09.mp3  ¡Pablo lo ha visto!
+
+--- Profecías ---
+weissagung-01.mp3  Veo una puerta que tomaste por una pared. Llama tres veces. A la tercera, se abrirá.
+weissagung-02.mp3  Alguien lleva tu nombre como una piedra de la suerte en el bolsillo. Pronto sabrás quién.
+weissagung-03.mp3  La niebla me muestra un camino que ya recorriste. Esta vez conoces el atajo.
+weissagung-04.mp3  Tu corazón sabe la respuesta desde hace mucho. Solo espera a que tu cabeza guarde silencio.
+weissagung-05.mp3  Una carta sin remitente te hará sonreír. Guárdala bien. Es una llave.
+weissagung-06.mp3  La bola me muestra una ventana en la noche y, dentro, una luz que arde solo para ti.
+weissagung-07.mp3  Lo que crees perdido solo está extraviado. Busca donde te reíste a carcajadas por última vez.
+weissagung-08.mp3  Un desconocido te hará una pregunta que te aligerará la vida. Respóndele con sinceridad.
+weissagung-09.mp3  Tres noches más y el viento cambiará. Y el viento, amigo mío, soplará a tu favor.
+weissagung-10.mp3  Tienes más valor del que te muestra tu espejo. Pronto lo necesitarás. Y estará ahí.
+weissagung-11.mp3  Veo música, luz de velas y un baile que no habías planeado. Simplemente di que sí.
+weissagung-12.mp3  Una vieja promesa llama a tu puerta. Esta vez se cumplirá.
+weissagung-13.mp3  Las estrellas susurran un nombre. No puedo revelarlo. Pero lo reconocerás en cuanto lo oigas.
+weissagung-14.mp3  Tras la próxima decepción te espera una sorpresa mucho mayor. Sigue adelante.
+weissagung-15.mp3  Lo que hoy empieces con tus propias manos vivirá más que un verano entero.
+weissagung-16.mp3  Una discusión termina cuando eres el primero en tender la mano. Cuesta menos de lo que temes y da más de lo que esperas.
+weissagung-17.mp3  La bola se vuelve dorada. Eso significa dinero que llega a ti, no que se va. Mantén los ojos abiertos.
+weissagung-18.mp3  ¿Buscas una señal? Aquí la tienes. La sostienes en tu mano ahora mismo.
+weissagung-19.mp3  Pronto comienza un viaje. Quizá solo hasta la próxima esquina. Pero allí te espera algo nuevo.
+weissagung-20.mp3  Alguien piensa en ti en este preciso instante. Y sonríe.
+weissagung-21.mp3  La luna vio cómo casi perdías la esperanza. Me pide que te diga: todavía no.
+weissagung-22.mp3  Tu mayor deseo es más pequeño de lo que crees. Y por eso está mucho más cerca.
+weissagung-23.mp3  Veo un hilo rojo que atraviesa tu año. Síguelo, aunque dé rodeos.
+weissagung-24.mp3  En ti duerme un talento olvidado. Despiértalo con suavidad. Ya ha esperado bastante.
+weissagung-25.mp3  La respuesta a tu pregunta es: todavía no. Pero ese «todavía» se acorta cada día.
+weissagung-26.mp3  Las cartas están barajadas, la partida está abierta y tú tienes el triunfo. No lo juegues demasiado pronto.
+weissagung-27.mp3  Lo que hoy te enfada será tu mejor historia dentro de un año.
+weissagung-28.mp3  Un animal te mostrará el camino. Síguelo. Pero no hasta el bosque.
+weissagung-29.mp3  Esta noche escribe un deseo en un papel y ponlo bajo la almohada. No lo vuelvas a leer hasta la primavera.
+weissagung-30.mp3  La bola muestra dos caminos. Los dos son buenos. Toma aquel en el que suene más música.
+weissagung-31.mp3  Un secreto que guardas se convierte en tesoro en cuanto lo compartes con la persona adecuada.
+weissagung-32.mp3  La suerte es un pájaro tímido. Solo se posa en manos abiertas. Abre las tuyas.
+weissagung-33.mp3  Veo una fiesta, muchas luces y a ti justo en medio. Te ríes. Fuerte y de corazón.
+weissagung-34.mp3  Quien hoy te pregunte el camino te traerá suerte mañana. Enséñale el más bonito.
+weissagung-35.mp3  Las estrellas se ríen de tus preocupaciones. No por burla. Es que ya saben cómo termina tu historia.
+weissagung-36.mp3  Pablo ha visto muchas manos. Las tuyas están hechas para sostener algo grande.
+
+
+3) ZURÜCKSCHICKEN
+Die drei Ordner de, en und es mit allen MP3-Dateien hier in den Chat ziehen.
+Pro Sprache sind es 49 Dateien, zusammen 147.
+Ich baue sie mit etwas Hall und Automaten-Klang ein. Pablo spricht dann automatisch
+in der Sprache, die oben am Automaten gewählt ist.
+
+
+============================================================
+ESMERALDA - STIMME FÜR ELEVENLABS (DEUTSCH · ENGLISH · ESPAÑOL)
+============================================================
+
+1) STIMME ANLEGEN (ElevenLabs > Voices > Voice Design)
+
+Beschreibung (auf Englisch eingeben):
+A warm, low, velvety female voice, around 40 years old. Mysterious, calm and hypnotic, with a soft husky texture and a knowing, slightly seductive smile in the delivery. Speaks slowly and intimately, almost whispering at times, with long dramatic pauses. An enchanting Romani fortune teller reading the crystal ball by candlelight. Speaks German with a very light Southern European accent.
+
+Probetext für die Vorschau:
+Mmm ... der Mond öffnet seine Augen. Ich sehe dich, Seele. Und was ich sehe ... gefällt mir.
+
+Einstellungen: Eleven Multilingual v2 · Stability ca. 45 % · Similarity ca. 80 % · Style ca. 35 % · Speed 0.85
+Für Englisch den letzten Satz ersetzen durch: Speaks English with a very light Southern European accent.
+Für Spanisch: Speaks Spanish with a warm Andalusian accent.
+
+2) SÄTZE - Dateien in die Ordner esmeralda\de, esmeralda\en, esmeralda\es (gleiche Dateinamen wie bei Pablo)
+
+############################################################
+ORDNER esmeralda\de  (DEUTSCH)
+############################################################
+
+start.mp3      Komm näher, Seele. Flüstere mir deine Frage und wirf eine Münze ein. Esmeralda hört dich schon.
+frage.mp3      … eine Frage aus tiefstem Herzen.
+intro.mp3      Sieh in die Kugel. Und vertrau mir.
+ende.mp3       Nimm deine Karte. Esmeralda hat gesprochen.
+
+murmel-01.mp3  Mmm … der Mond öffnet seine Augen …
+murmel-02.mp3  Ich sehe Rauch … und darin dein Gesicht …
+murmel-03.mp3  Ah … jetzt zeigt es sich mir.
+murmel-04.mp3  Die Karten flüstern … leise, ganz leise …
+murmel-05.mp3  Wasser … Licht … ein Herzschlag …
+murmel-06.mp3  Ja. So steht es geschrieben.
+murmel-07.mp3  Atme mit mir … ganz langsam …
+murmel-08.mp3  Die Schleier heben sich … einer nach dem anderen …
+murmel-09.mp3  Esmeralda hat es gesehen.
+
+weissagung-01.mp3  Der Mond hat dich lange beobachtet. Heute Nacht schickt er dir einen Traum. Merk ihn dir, er ist eine Antwort.
+weissagung-02.mp3  Eine Rose, die du längst verwelkt glaubtest, treibt neue Knospen. Gib ihr Licht und Geduld.
+weissagung-03.mp3  Ich sehe zwei Herzen, die im selben Takt schlagen. Eines davon ist deines.
+weissagung-04.mp3  Was du suchst, sucht auch dich. Bleib einen Augenblick still stehen, damit es dich findet.
+weissagung-05.mp3  Die Karten zeigen die Königin der Kelche. Deine Güte kehrt zu dir zurück, doppelt und dreifach.
+weissagung-06.mp3  Ein Fluss trägt fort, was dich beschwert. Lass los. Das Wasser weiß den Weg.
+weissagung-07.mp3  Hinter deinem Lächeln wohnt eine Kraft, die du noch nicht kennst. Bald zeigt sie sich.
+weissagung-08.mp3  Ich sehe eine Kerze im Fenster eines Hauses, das du noch nicht kennst. Dort wartet man auf dich.
+weissagung-09.mp3  Ein Wort, das du nie gesagt hast, liegt dir auf der Zunge. Sprich es aus. Es öffnet eine Tür.
+weissagung-10.mp3  Die Sterne haben deinen Weg mit Silber bestäubt. Wo du hintrittst, wächst Glück.
+weissagung-11.mp3  Eine Frau mit warmen Händen bringt dir eine gute Nachricht. Hör ihr genau zu.
+weissagung-12.mp3  Was zerbrochen war, wird zusammengefügt, und an den Bruchstellen glänzt es wie Gold.
+weissagung-13.mp3  Der Wind trägt deinen Wunsch über das Meer. Er ist schon unterwegs zurück zu dir.
+weissagung-14.mp3  Ich sehe eine Schlüsselblume am Wegrand. Pflück sie nicht. Folge der Richtung, in die sie zeigt.
+weissagung-15.mp3  Dein Schutzengel hat heute besonders gut aufgepasst. Morgen darfst du mutiger sein.
+weissagung-16.mp3  Ein Lied aus deiner Kindheit wird dich bald finden. Wenn du es hörst, triff deine Entscheidung.
+weissagung-17.mp3  Die Kugel wird rot wie Wein. Eine Leidenschaft erwacht, für einen Menschen oder für ein Werk.
+weissagung-18.mp3  Du trägst ein altes Licht in dir. Viele vor dir haben es gehütet. Jetzt bist du an der Reihe zu leuchten.
+weissagung-19.mp3  Unter dem nächsten Vollmond beginnt etwas Neues. Sei bereit, wenn es an deine Tür klopft.
+weissagung-20.mp3  Jemand bewahrt ein Foto von dir auf und lächelt, wenn er es ansieht.
+weissagung-21.mp3  Die Schatten werden kürzer. Das heißt: Die Sonne steigt. Deine Zeit kommt.
+weissagung-22.mp3  Ein Ring, ein Faden, ein Versprechen. Etwas bindet sich, und es hält.
+weissagung-23.mp3  Ich sehe eine Feder vor dir zu Boden schweben. Wenn du sie findest, ist deine Frage beantwortet.
+weissagung-24.mp3  Was du heute säst, erntest du im Herbst. Und die Ernte wird reich.
+weissagung-25.mp3  Deine Tränen von gestern sind der Regen für die Blumen von morgen.
+weissagung-26.mp3  Die Karten zeigen den Stern. Hoffnung, Heilung und ein klarer Himmel nach dem Sturm.
+weissagung-27.mp3  Eine Begegnung am Wasser verändert deinen Sommer. Geh öfter ans Ufer.
+weissagung-28.mp3  Du musst nicht alles allein tragen. Eine Hand streckt sich dir schon entgegen.
+weissagung-29.mp3  Sieben Tage, sieben Zeichen. Achte auf die Zahl Sieben, sie führt dich.
+weissagung-30.mp3  Die Kugel zeigt einen Tanz unter Laternen. Du tanzt barfuß und lachst.
+weissagung-31.mp3  Ein Geheimnis wird gelüftet, und es ist schöner, als du gedacht hast.
+weissagung-32.mp3  Der Mond sagt: Ruh dich aus. Was du suchst, kommt im Schlaf leichter zu dir.
+weissagung-33.mp3  Dein Herz ist ein Kompass. Es zittert ein wenig, aber es zeigt immer nach Hause.
+weissagung-34.mp3  Ich sehe Gold in deinen Händen. Nicht nur Münzen. Auch Zeit und Liebe.
+weissagung-35.mp3  Wer dir heute ein Lächeln schenkt, trägt einen Teil deines Glücks bei sich. Schenk eines zurück.
+weissagung-36.mp3  Esmeralda hat in viele Augen gesehen. In deinen brennt ein Feuer, das nicht verlöschen wird.
+
+############################################################
+ORDNER esmeralda\en  (ENGLISH)
+############################################################
+
+start.mp3      Come closer, dear soul. Whisper your question and drop in a coin. Esmeralda already hears you.
+frage.mp3      … a question from the depths of your heart.
+intro.mp3      Look into the crystal. And trust me.
+ende.mp3       Take your card. Esmeralda has spoken.
+
+murmel-01.mp3  Mmm … the moon opens her eyes …
+murmel-02.mp3  I see smoke … and within it, your face …
+murmel-03.mp3  Ah … now it reveals itself to me.
+murmel-04.mp3  The cards are whispering … softly, so softly …
+murmel-05.mp3  Water … light … a heartbeat …
+murmel-06.mp3  Yes. So it is written.
+murmel-07.mp3  Breathe with me … slowly …
+murmel-08.mp3  The veils are lifting … one by one …
+murmel-09.mp3  Esmeralda has seen it.
+
+weissagung-01.mp3  The moon has watched you for a long time. Tonight she sends you a dream. Remember it, it is an answer.
+weissagung-02.mp3  A rose you thought had withered long ago is putting out new buds. Give it light and patience.
+weissagung-03.mp3  I see two hearts beating in the same rhythm. One of them is yours.
+weissagung-04.mp3  What you are seeking is seeking you too. Stand still for a moment so it can find you.
+weissagung-05.mp3  The cards show the Queen of Cups. Your kindness returns to you, twice and three times over.
+weissagung-06.mp3  A river carries away what weighs on you. Let go. The water knows the way.
+weissagung-07.mp3  Behind your smile lives a strength you have not yet met. Soon it will show itself.
+weissagung-08.mp3  I see a candle in the window of a house you do not know yet. Someone is waiting for you there.
+weissagung-09.mp3  A word you have never said rests on the tip of your tongue. Say it. It opens a door.
+weissagung-10.mp3  The stars have dusted your path with silver. Wherever you step, luck will grow.
+weissagung-11.mp3  A woman with warm hands brings you good news. Listen to her closely.
+weissagung-12.mp3  What was broken will be mended, and where it broke it will shine like gold.
+weissagung-13.mp3  The wind carries your wish across the sea. It is already on its way back to you.
+weissagung-14.mp3  I see a primrose by the wayside. Do not pick it. Follow the direction it points.
+weissagung-15.mp3  Your guardian angel watched especially closely today. Tomorrow you may be bolder.
+weissagung-16.mp3  A song from your childhood will find you soon. When you hear it, make your decision.
+weissagung-17.mp3  The crystal turns red as wine. A passion awakens, for a person or for a work of your hands.
+weissagung-18.mp3  You carry an ancient light within you. Many before you have guarded it. Now it is your turn to shine.
+weissagung-19.mp3  Under the next full moon something new begins. Be ready when it knocks at your door.
+weissagung-20.mp3  Someone keeps a photograph of you and smiles whenever they look at it.
+weissagung-21.mp3  The shadows are growing shorter. That means the sun is rising. Your time is coming.
+weissagung-22.mp3  A ring, a thread, a promise. Something is being bound, and it will hold.
+weissagung-23.mp3  I see a feather drifting to the ground before you. When you find it, your question is answered.
+weissagung-24.mp3  What you sow today you will harvest in autumn. And the harvest will be rich.
+weissagung-25.mp3  Yesterday's tears are the rain for tomorrow's flowers.
+weissagung-26.mp3  The cards show the Star. Hope, healing and a clear sky after the storm.
+weissagung-27.mp3  A meeting by the water will change your summer. Go to the shore more often.
+weissagung-28.mp3  You do not have to carry everything alone. A hand is already reaching out to you.
+weissagung-29.mp3  Seven days, seven signs. Watch for the number seven, it will guide you.
+weissagung-30.mp3  The crystal shows a dance beneath lanterns. You are dancing barefoot and laughing.
+weissagung-31.mp3  A secret will be revealed, and it is more beautiful than you imagined.
+weissagung-32.mp3  The moon says: rest. What you seek comes to you more easily in your sleep.
+weissagung-33.mp3  Your heart is a compass. It trembles a little, but it always points home.
+weissagung-34.mp3  I see gold in your hands. Not only coins. Time and love as well.
+weissagung-35.mp3  Whoever gives you a smile today carries a piece of your luck. Give one back.
+weissagung-36.mp3  Esmeralda has looked into many eyes. In yours burns a fire that will never go out.
+
+############################################################
+ORDNER esmeralda\es  (ESPAÑOL)
+############################################################
+
+start.mp3      Acércate, alma mía. Susúrrame tu pregunta y echa una moneda. Esmeralda ya te escucha.
+frage.mp3      … una pregunta que nace del corazón.
+intro.mp3      Mira la bola. Y confía en mí.
+ende.mp3       Toma tu carta. Esmeralda ha hablado.
+
+murmel-01.mp3  Mmm … la luna abre los ojos …
+murmel-02.mp3  Veo humo … y en él, tu rostro …
+murmel-03.mp3  Ah … ahora se me revela.
+murmel-04.mp3  Las cartas susurran … despacio, muy despacio …
+murmel-05.mp3  Agua … luz … un latido …
+murmel-06.mp3  Sí. Así está escrito.
+murmel-07.mp3  Respira conmigo … despacio …
+murmel-08.mp3  Los velos se levantan … uno a uno …
+murmel-09.mp3  Esmeralda lo ha visto.
+
+weissagung-01.mp3  La luna te ha observado mucho tiempo. Esta noche te enviará un sueño. Recuérdalo, es una respuesta.
+weissagung-02.mp3  Una rosa que creías marchita vuelve a echar brotes. Dale luz y paciencia.
+weissagung-03.mp3  Veo dos corazones que laten al mismo compás. Uno de ellos es el tuyo.
+weissagung-04.mp3  Lo que buscas también te busca a ti. Detente un momento para que pueda encontrarte.
+weissagung-05.mp3  Las cartas muestran la Reina de Copas. Tu bondad vuelve a ti, doble y triple.
+weissagung-06.mp3  Un río se lleva lo que te pesa. Suéltalo. El agua conoce el camino.
+weissagung-07.mp3  Detrás de tu sonrisa vive una fuerza que aún no conoces. Pronto se mostrará.
+weissagung-08.mp3  Veo una vela en la ventana de una casa que aún no conoces. Allí te esperan.
+weissagung-09.mp3  Una palabra que nunca has dicho descansa en la punta de tu lengua. Dila. Abre una puerta.
+weissagung-10.mp3  Las estrellas han cubierto tu camino de polvo de plata. Donde pises, crecerá la suerte.
+weissagung-11.mp3  Una mujer de manos cálidas te trae una buena noticia. Escúchala con atención.
+weissagung-12.mp3  Lo que se rompió volverá a unirse, y donde se quebró brillará como el oro.
+weissagung-13.mp3  El viento lleva tu deseo sobre el mar. Ya viene de vuelta hacia ti.
+weissagung-14.mp3  Veo una prímula al borde del camino. No la arranques. Sigue la dirección que señala.
+weissagung-15.mp3  Tu ángel de la guarda te ha cuidado hoy con especial atención. Mañana puedes ser más valiente.
+weissagung-16.mp3  Una canción de tu infancia te encontrará pronto. Cuando la oigas, toma tu decisión.
+weissagung-17.mp3  La bola se vuelve roja como el vino. Despierta una pasión, por una persona o por una obra.
+weissagung-18.mp3  Llevas dentro una luz antigua. Muchos antes que tú la guardaron. Ahora te toca brillar a ti.
+weissagung-19.mp3  Bajo la próxima luna llena empieza algo nuevo. Prepárate para cuando llame a tu puerta.
+weissagung-20.mp3  Alguien guarda una foto tuya y sonríe cada vez que la mira.
+weissagung-21.mp3  Las sombras se acortan. Eso significa que el sol sube. Tu momento está llegando.
+weissagung-22.mp3  Un anillo, un hilo, una promesa. Algo se une, y resistirá.
+weissagung-23.mp3  Veo una pluma que cae flotando ante ti. Cuando la encuentres, tu pregunta tendrá respuesta.
+weissagung-24.mp3  Lo que siembres hoy lo cosecharás en otoño. Y la cosecha será rica.
+weissagung-25.mp3  Tus lágrimas de ayer son la lluvia para las flores de mañana.
+weissagung-26.mp3  Las cartas muestran la Estrella. Esperanza, sanación y un cielo claro tras la tormenta.
+weissagung-27.mp3  Un encuentro junto al agua cambiará tu verano. Ve más a menudo a la orilla.
+weissagung-28.mp3  No tienes que cargarlo todo tú solo. Una mano ya se tiende hacia ti.
+weissagung-29.mp3  Siete días, siete señales. Fíjate en el número siete, te guiará.
+weissagung-30.mp3  La bola muestra un baile bajo farolillos. Bailas descalzo y te ríes.
+weissagung-31.mp3  Un secreto saldrá a la luz, y es más hermoso de lo que imaginabas.
+weissagung-32.mp3  La luna dice: descansa. Lo que buscas llega más fácil mientras duermes.
+weissagung-33.mp3  Tu corazón es una brújula. Tiembla un poco, pero siempre señala a casa.
+weissagung-34.mp3  Veo oro en tus manos. No solo monedas. También tiempo y amor.
+weissagung-35.mp3  Quien hoy te regale una sonrisa lleva consigo un pedazo de tu suerte. Devuélvele otra.
+weissagung-36.mp3  Esmeralda ha mirado en muchos ojos. En los tuyos arde un fuego que nunca se apagará.
