@@ -1,6 +1,6 @@
 // Gipsy Fortune: keeps the whole machine on the phone so it opens instantly and works offline.
 // Raise VERSION whenever index.html changes, so phones fetch the new machine.
-const VERSION = "gipsy-v17";
+const VERSION = "gipsy-v18";
 const FILES = ["./", "index.html", "manifest.webmanifest", "icon-180.png", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", e => {
