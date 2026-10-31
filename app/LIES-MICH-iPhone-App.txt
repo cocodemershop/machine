@@ -26,7 +26,7 @@ AUFS iPHONE ALS APP (ca. 3 Minuten, kostenlos)
 VOR DEM ÖFFENTLICHEN START
   In index.html ganz oben im Script ausfüllen:
     PAYPAL_EMAIL = PayPal-Konto für Spenden (eingetragen: eurodeko@web.de)
-    LETTER_URL = PayPal-Link für den 9-Euro-Brief
+    LETTER_EUR = Preis für den Brief zum Ausdrucken (eingetragen: 2 Euro)
     IMPRESSUM  = Name, Straße, Ort, E-Mail, Telefon
   Nach jeder Änderung an index.html in sw.js die Zeile VERSION hochzählen
   (z. B. "gipsy-v18"), damit die iPhones die neue Fassung laden.
